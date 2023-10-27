@@ -30,8 +30,9 @@ div ul li {
 }
 
 .about-link {
-    text-align: center;
-    transform: translate(+1%, +100%);
+    position: absolute;
+    bottom: 5px;
+    transform: translate(+890%, +100%);
 }
 
 a {
